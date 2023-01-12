@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: ec40b66161fcdf5458ccee83032f58c3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: kitchen_01
+  - first:
+      43: 4300002
+    second: hotPlates_01
+  - first:
+      43: 4300004
+    second: faucet_01
+  - first:
+      43: 4300006
+    second: plug_01
+  - first:
+      43: 4300008
+    second: oven_01
+  - first:
+      43: 4300010
+    second: shelf_01
+  - first:
+      43: 4300012
+    second: basket_01
+  - first:
+      43: 4300014
+    second: shelf_02
+  - first:
+      43: 4300016
+    second: shelf_03
+  - first:
+      43: 4300018
+    second: shelf_04
+  - first:
+      43: 4300020
+    second: centerTable_01
+  - first:
+      43: 4300022
+    second: chair_01
+  - first:
+      43: 4300024
+    second: chukies_01
+  - first:
+      43: 4300026
+    second: bowl_01
+  - first:
+      43: 4300028
+    second: dish_01
+  - first:
+      43: 4300030
+    second: pan_01
+  - first:
+      43: 4300032
+    second: glass_01
+  - first:
+      43: 4300034
+    second: pot_01
+  - first:
+      43: 4300036
+    second: fryingPan_01
+  - first:
+      43: 4300038
+    second: wok_01
+  - first:
+      43: 4300040
+    second: kitchen_02
+  - first:
+      43: 4300042
+    second: hotPlates_02
+  - first:
+      43: 4300044
+    second: faucet_02
+  - first:
+      43: 4300046
+    second: oven_02
+  - first:
+      43: 4300048
+    second: plug_02
+  - first:
+      43: 4300050
+    second: faucet_03
+  - first:
+      43: 4300052
+    second: oven_03
+  - first:
+      43: 4300054
+    second: hotPlates_03
+  - first:
+      43: 4300056
+    second: kitchen_03
+  - first:
+      43: 4300058
+    second: plug_03
+  - first:
+      43: 4300060
+    second: chukies_02
+  - first:
+      43: 4300062
+    second: shelf_05
+  - first:
+      43: 4300064
+    second: shelf_06
+  - first:
+      43: 4300066
+    second: pot_02
+  - first:
+      43: 4300068
+    second: pot_03
+  - first:
+      43: 4300070
+    second: Cylinder01
+  - first:
+      43: 4300072
+    second: bean_01
+  - first:
+      43: 4300074
+    second: fridge_01
+  - first:
+      43: 4300076
+    second: port_frigo
+  - first:
+      43: 4300078
+    second: cuttingBoard_01
+  - first:
+      43: 4300080
+    second: broom_01
+  - first:
+      43: 4300082
+    second: knife_01
+  - first:
+      43: 4300084
+    second: bread_01
+  - first:
+      43: 4300086
+    second: cheese_01
+  - first:
+      1001: 100100000
+    second: DataTemplate __Singleton__
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #25
+    second: {fileID: 2100000, guid: c811f5da591956a4d9ad93f0e0bf0302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #37
+    second: {fileID: 2100000, guid: 9b881a69103e0824d832aca39de085f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #44
+    second: {fileID: 2100000, guid: 589df99b704773147ae93b0e946a6888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3b033e99b8bf87649b9b0c919d8cf7ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bean_01_black
+    second: {fileID: 2100000, guid: b6e9751fd774867428b14ee092a4a36e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bean_01_metal
+    second: {fileID: 2100000, guid: c3582c358acee044296913e116798fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bean_01_trashBag
+    second: {fileID: 2100000, guid: 0da4cdb895ce78d4985e902a12e94b75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bowl_01
+    second: {fileID: 2100000, guid: 72028a2d50780d34b84b2631fb59b39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: broom_01_black
+    second: {fileID: 2100000, guid: a2fb83cacce361a438f09ff054892f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: broom_01_brush
+    second: {fileID: 2100000, guid: beed21d7a16e6344f98dbfdd44b9f983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: broom_01_brushBottom
+    second: {fileID: 2100000, guid: 10fabe7577e6e2b4a96899527c57df77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: broom_01_grey
+    second: {fileID: 2100000, guid: 4e5155123a379f84e999948ded6c343b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_01_leather
+    second: {fileID: 2100000, guid: 8bf8d5a73d889e34db92b5ac1dbac2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_01_metal
+    second: {fileID: 2100000, guid: b74a9d19ce1aa99409c52c90a5dbf7ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chukies_01
+    second: {fileID: 2100000, guid: 050b0ed2872dc7446a2117ab2c93c265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chukies_02
+    second: {fileID: 2100000, guid: 3fad71eb12e1e7e4691800043fd6a1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuttingBoard_01
+    second: {fileID: 2100000, guid: e71cd2390c8492d41bf7755be8ce9e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dish_01
+    second: {fileID: 2100000, guid: 7974af29ae2f220479d9c116f639b215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_01
+    second: {fileID: 2100000, guid: c20184f30c33e3b4081cc3645cb54024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hotPlates_black
+    second: {fileID: 2100000, guid: 97301978d640fbd4d9d93d614f3283a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hotPlates_hotPlates
+    second: {fileID: 2100000, guid: a689a51dcfd575e44848d027f75effa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitchenBase_base
+    second: {fileID: 2100000, guid: 927f2f21e203d4e499e8e6a20fa3a200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitchenBase_red
+    second: {fileID: 2100000, guid: 0e984565583104d4dacee8d5af9226ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitchenBase_sink
+    second: {fileID: 2100000, guid: 971a2bf096efa4e429204167c3a9c266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oven_black
+    second: {fileID: 2100000, guid: 95d2b290dc2f5744bbcb26ae16a84e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oven_door
+    second: {fileID: 2100000, guid: eba40890056f51345b0ec6e8082ae8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oven_top
+    second: {fileID: 2100000, guid: 6aa3b7031cda5ca418fb9c726a916b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pan_black
+    second: {fileID: 2100000, guid: 46e2fc69e6d6017479a7e000b76de161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pan_metal
+    second: {fileID: 2100000, guid: d0d2b51bb88545b4a9649da4097ce97a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pot_01
+    second: {fileID: 2100000, guid: 8b6c0f780fe36744fbca1a236d2cbc5f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
